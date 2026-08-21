@@ -132,11 +132,6 @@ Create a `.env` file and add your Google Gemini API key:
 ```env
 GOOGLE_API_KEY=your_google_api_key
 ```
-
-> ⚠️ Never upload your API key to GitHub.
-
-For Streamlit Community Cloud, add the API key through **App Settings → Secrets** instead of uploading the `.env` file.
-
 ---
 
 ## ▶️ Run Locally
@@ -157,20 +152,18 @@ The application will open in your browser.
 
 <!-- Add your screenshot here -->
 
-![MediBot Interface](screenshots/home.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4d4840c-d730-46e0-922a-dff0dffe235d" />
 
 ### 💬 Question & Answer
 
 <!-- Add your screenshot here -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/082ea975-c45a-43ac-9104-4bb2c530c03b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a62e9d3e-b8bb-48e8-bf80-3a35b8a79307" />
 
-![Question and Answer](screenshots/question-answer.png)
-
-### 📑 Source Page Reference
+### 📑 Irrelevant Question & Answer
 
 <!-- Add your screenshot here -->
-
-![Source Page Reference](screenshots/source-page.png)
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78e3a005-d6ad-4379-98ec-1efa98c68217" />
 ---
 
 ## ☁️ Deployment
@@ -184,13 +177,8 @@ MediBot is deployed using **Streamlit Community Cloud**.
 - **Main file:** `app.py`
 - **Platform:** Streamlit Community Cloud
 - **Secrets:** Google Gemini API key
-
-### 🌐 Live Application
-
-🔗 https://medibot-4i7wtumxxruckjjljzged.streamlit.app/
-
----
-
+-  **Live Application**
+-  
 ## 📌 Future Improvements
 
 - 💬 Conversational chat history
