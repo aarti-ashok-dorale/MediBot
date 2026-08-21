@@ -163,7 +163,13 @@ The application will open in your browser.
 ### 📑 Irrelevant Question & Answer
 
 <!-- Add your screenshot here -->
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78e3a005-d6ad-4379-98ec-1efa98c68217" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78e3a005-d6ad-4379-98ec-1efa98c68217" /> 
+
+### 📑 No Input Question
+<!-- Add your screenshot here -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6ba0676-73bf-48c4-a540-ab3c11a4c3d4" />
+
+---
 ---
 
 ## ☁️ Deployment
