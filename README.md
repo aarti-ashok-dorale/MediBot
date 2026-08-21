@@ -11,7 +11,7 @@ It uses **LangChain, FAISS, Hugging Face embeddings, and Google Gemini 2.5 Flash
 ## 🚀 Live Demo
 
 🔗 **Streamlit Community Cloud:**  
-https://medibot-4i7wtumxxruckjjljzged.streamlit.app/
+https://medibot-4i7wtumxxruckjjjjlzged.streamlit.app/
 
 ---
 
