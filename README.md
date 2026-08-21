@@ -17,15 +17,15 @@ https://medibot-4i7wtumxxruckjjjjlzged.streamlit.app/
 
 ## ✨ Features
 
-- 📄 Ask questions from a pre-loaded medical PDF
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧠 Hugging Face `all-MiniLM-L6-v2` embeddings
-- 🗂️ FAISS vector database for similarity search
-- 🤖 Google Gemini 2.5 Flash for answer generation
-- 📑 Source page references
-- 💬 Simple Streamlit interface
-- ☁️ Deployed on Streamlit Community Cloud
-- 🔐 Secure API key management using environment variables / Streamlit Secrets
+- Ask questions from a pre-loaded medical PDF
+- Retrieval-Augmented Generation (RAG)
+- Hugging Face `all-MiniLM-L6-v2` embeddings
+- FAISS vector database for similarity search
+- Google Gemini 2.5 Flash for answer generation
+- Source page references
+- Simple Streamlit interface
+- Deployed on Streamlit Community Cloud
+- Secure API key management using environment variables / Streamlit Secrets
 
 ---
 
